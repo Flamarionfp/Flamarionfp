@@ -1,6 +1,6 @@
 ### Olá, meu nome é Flamarion Fagundes Pinto! 👋
 
-- 💻 Estou trabalhando com React, React Native e Node JS.
+- 💻 Estou trabalhando com React, React Native, OSF e Node JS.
 - 📕 Estudo Sistemas de Informação na <a href="https://www2.faccat.br/portal/">Faccat</a>
 
 <div>
